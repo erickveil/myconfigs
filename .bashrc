@@ -97,3 +97,8 @@ alias l='ls -CF'
 if [ -f /etc/bash_completion ]; then
     . /etc/bash_completion
 fi
+
+
+JDK_HOME=/usr/java/jdk1.7.0_40
+export JDK_HOME
+
