@@ -102,3 +102,5 @@ fi
 JDK_HOME=/usr/java/jdk1.7.0_40
 export JDK_HOME
 
+alias please='sudo $(history -p \!\!)'
+
